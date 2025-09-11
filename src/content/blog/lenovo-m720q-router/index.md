@@ -2,7 +2,7 @@
 title: Using Lenovo M720q tiny PC as a router
 pubDate: "2020-12-26"
 description: "I was looking to upgrade my Ubiquity EdgeRouter X. Short story on how and why I've chosen this tiny PC as a replacement."
-heroImage: '../../../assets/og-image.jpg'
+image: './og-image.jpg'
 ---
 
 Few months ago I started looking for a router which could replace my current [Ubiquity EdgeRouter X](https://www.ui.com/edgemax/edgerouter-x/) (ER-X). Nothing in particular is wrong with the ER-X, it's a great small router that I've used for the last 2.5 years. Especially for the price I paid (~€50 new). 
