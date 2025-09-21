@@ -8,4 +8,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://norbertas.com',
 	integrations: [mdx(), sitemap()],
+	redirects: {
+    "/about": "/"
+  }
 });
