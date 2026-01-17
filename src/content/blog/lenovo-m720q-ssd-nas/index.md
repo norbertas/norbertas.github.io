@@ -11,13 +11,13 @@ That left me with a Lenovo Tiny PC sitting on the shelf with no real purpose. In
 My first idea was to connect a few HDDs directly, but that would mean keeping the drives outside the M720q with messy cabling. Then I started wondering: could this be an SSD-only NAS, and how many drives can actually fit inside a Lenovo M720q Tiny?
 
 
-# Parts
+## Parts
 - PCIe riser card – already had  
 - Ugreen PCIe NVMe adapter ([link to Amazon](https://www.amazon.de/-/en/UGREEN-Adapter-Heatsink-64Gbps-Supports/dp/B08TBW12B8/))  
 - 2× [Patriot P320 2TB NVMe SSDs](https://www.patriotmemory.com/products/p320-pcie-m-2-internal-ssd)  
 - Existing SATA SSD for the OS  
 
-# Putting it all together
+## Putting it all together
 
 Out of the box the M720q supports one NVMe SSD and one SATA SSD.
 By using a PCIe riser with an NVMe adapter, there is just enough space to add a second NVMe drive, giving a total of three SSDs.
